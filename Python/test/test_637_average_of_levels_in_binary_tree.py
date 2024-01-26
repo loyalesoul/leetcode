@@ -1,5 +1,3 @@
-# Your TreeNode and Solution classes go here...
-
 import pytest
 from solution.code_637_average_of_levels_in_binary_tree import TreeNode, Solution
 
